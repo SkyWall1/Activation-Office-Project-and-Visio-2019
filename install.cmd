@@ -1,6 +1,7 @@
 # Activation-Office-Project-and-Visio-2019
 Script CMD
-
+Para Windows 10 Pro >>> Key Hacking: Office, Project e Visio.
+Recurso de Ativação definitiva do MS Office e complementos 
 1 - Abra o menu executar - Windows + R ou acesse através da cortana
 2 - Digite cmd (admin)
 3 - Copie todo o código
